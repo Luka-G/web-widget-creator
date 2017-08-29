@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "url": "https://geoservice.ist.supsi.ch",
+  "url": "https://geoservice.ist.supsi.ch/istsos",
   "widget_lib_path": "./dist/istsos-widget.min.js",
   "login": {
     "user": "",
